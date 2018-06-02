@@ -17,6 +17,7 @@ class Song
   end
 
   def all
+    @all
   end
 
 end
