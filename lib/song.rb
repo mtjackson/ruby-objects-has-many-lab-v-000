@@ -16,4 +16,7 @@ class Song
     end
   end
 
+  def all
+  end
+
 end
